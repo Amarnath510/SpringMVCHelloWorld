@@ -38,7 +38,7 @@
   
   ```
   
- ## Add Spring Configuration file
+## Add Spring Configuration file
    - Under WEB-INF directory add `spring-web-servlet.xml` file.
    - Add ViewResolver class and view page path as below,
     

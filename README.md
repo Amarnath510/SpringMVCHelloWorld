@@ -56,7 +56,7 @@
 	 </bean>
    ```
    
- ## Update web.xml file
+## Update web.xml file
    - Add Dispatcher Servlet info here as,
    
    ```xml
@@ -72,7 +72,7 @@
 	</servlet-mapping>
    ```
    
- ## Time to add Controller
+## Time to add Controller
    - Under `src/main/java` add a package `com.amarnath.springmvchelloworld`.
    - Add HomeController class in the above package.
    - The class has only two method which refer two different pages as,
@@ -93,10 +93,10 @@
     }
    ```
    
- ## Running the server
+## Running the server
    - Right Click on project, select Run as and choose tomcat server.
    
- ## Credits
+## Credits
    - [Spring MVC Hello World](http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example/)
  
  
